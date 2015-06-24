@@ -12,6 +12,7 @@
 		34F30A701B3A4338008BD802 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 34F30A6F1B3A4338008BD802 /* Images.xcassets */; };
 		34F30A731B3A4338008BD802 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 34F30A711B3A4338008BD802 /* LaunchScreen.xib */; };
 		34F30A7F1B3A4339008BD802 /* GitTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 34F30A7E1B3A4339008BD802 /* GitTests.m */; };
+		34F30A8A1B3A4587008BD802 /* dfwqfrwrfwrew.m in Sources */ = {isa = PBXBuildFile; fileRef = 34F30A891B3A4587008BD802 /* dfwqfrwrfwrew.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +36,8 @@
 		34F30A781B3A4338008BD802 /* GitTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GitTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		34F30A7D1B3A4339008BD802 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		34F30A7E1B3A4339008BD802 /* GitTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GitTests.m; sourceTree = "<group>"; };
+		34F30A881B3A4587008BD802 /* dfwqfrwrfwrew.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = dfwqfrwrfwrew.h; sourceTree = "<group>"; };
+		34F30A891B3A4587008BD802 /* dfwqfrwrfwrew.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = dfwqfrwrfwrew.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +81,8 @@
 			children = (
 				34F30A6C1B3A4338008BD802 /* AppDelegate.h */,
 				34F30A6D1B3A4338008BD802 /* AppDelegate.m */,
+				34F30A881B3A4587008BD802 /* dfwqfrwrfwrew.h */,
+				34F30A891B3A4587008BD802 /* dfwqfrwrfwrew.m */,
 				34F30A6F1B3A4338008BD802 /* Images.xcassets */,
 				34F30A711B3A4338008BD802 /* LaunchScreen.xib */,
 				34F30A681B3A4338008BD802 /* Supporting Files */,
@@ -211,6 +216,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				34F30A6E1B3A4338008BD802 /* AppDelegate.m in Sources */,
+				34F30A8A1B3A4587008BD802 /* dfwqfrwrfwrew.m in Sources */,
 				34F30A6B1B3A4338008BD802 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
